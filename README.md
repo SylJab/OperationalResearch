@@ -33,4 +33,7 @@ The midpoint rule estimates the area under a curve by approximating it as a seri
 
 Note: Seminars are conducted in Excel format for problem formulation and data analysis, while numerical integration rules are implemented in MATLAB for computational purposes.
 
+Software Requirements
 
+MATLAB version R2018b or higher is required to run the numerical integration techniques.
+Microsoft Excel version 2013 or higher is needed to access and work with the seminar materials provided.
