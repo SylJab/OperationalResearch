@@ -1,19 +1,23 @@
 Operational Research using Excel & MATLAB
 
 Seminar Topics
-
 Seminar 3: Minimised Objective Function
+
 Seminar 5: Linear Programming Problem
 *Optimal Mix Production
 *Analysis of Additional Purchases
 *Profit Increase with Additional Purchases
-Recommendations
+*Recommendations
+
 Seminar 6: Formulating and Optimizing Objective Functions
 *Based on Given Constraints and Decision Variables
+
 Seminar 7: Linear Programming Problems & Simplex Tableau
+
 Seminar 8: Linear Programming Problem Analysis
 *Range of Optimality for Objective Function Coefficients
 *Range of Feasibility for RHS Values
+
 Seminars 9 & 10: Node Travel Time
 *Most Efficient & Shortest Route
 *Numerical Integration Techniques
